@@ -55,7 +55,7 @@ project-folder/
 ### Langkah 3: Clone Repositori
 1. Clone repositori VaultSync:
    ```bash
-   git clone https://github.com/Muhammad-Ikhwan-Fathulloh/VaultSync.git
+   git clone https://github.com/yastiaisyah/VaultSync.git
    cd VaultSync
    ```
 2. Pastikan direktori `uploads/` ada:
